@@ -1,5 +1,8 @@
-## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandvardhan1991&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/anandvardhan1991">
+  <img alt="Anand Vardhan LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+</p>
 <!--
 **anandvardhan1991/anandvardhan1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
